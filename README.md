@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sigrunixia
 - 👀 I’m interested in 🌮 , 🐲, and Obsidian
-- 🌱 I’m currently learning Javascript and CSS
+- 🌱 I’m currently learning Javascript, CSS, and Github.
 - 💞️ I’m looking to collaborate on TTRPG's.
 - 📫 How to reach me 
 
