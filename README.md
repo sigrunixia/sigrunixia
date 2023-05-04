@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sigrunixia, sometimes known as @LittleMaelstrom on Discord. 
-- 👀 I’m interested in 🌮 , 🐲, and [@Obsidianmd](https://github.com/obsidianmd).
-- 🌱 I’m currently learning Javascript, CSS, and MacOS Automation, and Github workflows.
-- 💞️ I’m looking to collaborate on TTRPG design, worldbuilding, and automation in easy to use formats like markdown. 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- 👋 Hi, I’m @Sigrunixia, sometimes known as @LittleMaelstrom on Discord. 
+- 👀 **Curiosity**: I’m fascinated by 🐲, 📚, [@Obsidianmd](https://github.com/obsidianmd), and let's be honest, everything.
+- 🌱 **Learning**: Typescript and SASS.
+- 💞️ **Giving Back**: I’m looking to collaborate on TTRPG Design, Worldbuilding, and Community Outreach, in easy to use formats like Markdown and for little-to-no cost.
+- 🎓 **Education**:I recently finished up my Bachelor's level education, and graduated with honors. I worked full-time for most of it.
+- 🫶 **Whats next**? A little break, and then to decide who I want to collaborate with.
