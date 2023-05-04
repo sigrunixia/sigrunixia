@@ -3,4 +3,4 @@
 - 🌱 **Learning**: Typescript and SASS.
 - 💞️ **Giving Back**: I’m looking to collaborate on TTRPG Design, Worldbuilding, and Community Outreach, in easy to use formats like Markdown and for little-to-no cost.
 - 🎓 **Education**:I recently finished up my Bachelor's level education, and graduated with honors. I worked full-time for most of it.
-- 🫶 **Whats next**? A little break, and then to decide who I want to collaborate with.
+- 🫶 **Whats next**? A little break, and then to decide what type of _paid_ work to do.
