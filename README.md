@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sigrunixia, also known as Rebbecca Bishop.
+- 🌐 **Find me**: [CV & Portfolio](https://sigrunixia.github.io) · [Tenebrous Dragon](https://tenebrousdragon.com)
 - 👀 **Curiosity**: I’m fascinated by 🐲, 📚, [@Obsidianmd](https://github.com/obsidianmd), and let's be honest, _everything_.
-- 🌱 **Learning**: Java 🥊
-- 💞️ **Giving Back**: I’m looking to collaborate on TTRPG Design, Worldbuilding, and Community Outreach, in easy to use formats like Markdown and for little-to-no cost.
-- 🎓 **Education**: I finished up my Bachelor's level education, and graduated with honors. I worked full-time for most of it. Someday, I will continue into more formal education, but I am always learning.
-- 💻 **Career**: I am a Customer Experience Specialist at [@Obsidianmd](https://github.com/obsidianmd). I douse fires, I write documentation, and I am all around the one who gets the customer admin work done. 
-- 🫶 **Ongoing**? Getting better at studying, and consolidating knowledge into something past a generalist stage. 
+- 🌱 **Learning** Modern Greek 🇬🇷. Also dabbling in [Swift](https://www.swift.org).
+- 🎓 **Education**: I finished up my Bachelor's level education, and graduated with honors. I worked full-time for most of it. Someday, I will continue into more formal education, but I am always learning, and I'm planning a trip to Greece soon to study Modern Greek in person.
+- 💻 **Career** Coming up on three years as a Customer Experience Specialist at [@Obsidianmd](https://github.com/obsidianmd). I douse fires, I write documentation, and I am all around the one who gets the customer admin work done. 
+- 🫶 **Ongoing**? Leaning into more analog tasks, and stepping back from the screen when I can.
