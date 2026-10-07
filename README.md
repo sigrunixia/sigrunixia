@@ -5,4 +5,4 @@
 - 🌱 **Learning** - Modern Greek 🇬🇷, and Swift, which I use for CLIs that help with my support work.
 - 🎓 **Education** - I graduated with honors with a Bachelor's degree, and I worked full-time for most of it. I'll go on to more formal study someday, but I'm always learning.
 - 💻 **Career** - Customer Experience Specialist at [@Obsidianmd](https://github.com/obsidianmd) since 2023. I douse fires, I write documentation, and I'm the one who gets the customer admin work done.
-- 🫶 **Ongoing** - Leaning into more analog tasks, and stepping back from the screen when I can. I've been to Greece once, and I'm going back in November 2026 to study Modern Greek in person.
+- 🫶 **Ongoing** - Leaning into more analog tasks, and stepping back from the screen when I can. I'm moving to Athens in November 2026, and I'll keep studying Modern Greek in person.
