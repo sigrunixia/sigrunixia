@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Sigrunixia, also known as Rebbecca Bishop.
-- 🌐 **Find me**: [CV & Portfolio](https://sigrunixia.github.io) · [Tenebrous Dragon](https://tenebrousdragon.com)
-- 👀 **Curiosity**: I’m fascinated by 🐲, 📚, [@Obsidianmd](https://github.com/obsidianmd), and let's be honest, _everything_.
-- 🌱 **Learning** Modern Greek 🇬🇷. Also dabbling in [Swift](https://www.swift.org).
-- 🎓 **Education**: I finished up my Bachelor's level education, and graduated with honors. I worked full-time for most of it. Someday, I will continue into more formal education, but I am always learning, and I'm planning a trip to Greece soon to study Modern Greek in person.
-- 💻 **Career** Coming up on three years as a Customer Experience Specialist at [@Obsidianmd](https://github.com/obsidianmd). I douse fires, I write documentation, and I am all around the one who gets the customer admin work done. 
-- 🫶 **Ongoing**? Leaning into more analog tasks, and stepping back from the screen when I can.
+- 👋 Hi, I'm @Sigrunixia, also known as [Rebbecca Bishop](https://tenebrousdragon.com/sigrunixia).
+- 🌐 **Find me** - [CV & Portfolio](https://sigrunixia.github.io) · [Tenebrous Dragon](https://tenebrousdragon.com)
+- 🎨 **Making** - I build in dark, high-contrast colours, so everything I make shares one palette. [Tenebrous](https://github.com/sigrunixia/Tenebrous) is the colour scheme, and it runs in [Obsidian](https://github.com/sigrunixia/Tenebrous-Obsidian), in [Zed](https://github.com/sigrunixia/Tenebrous-Zed) and on [my website](https://github.com/sigrunixia/Tenebrous-Site), which is built with Quartz from my Obsidian vault.
+- 👀 **Curiosity** - I'm fascinated by 🐲, 📚, [@Obsidianmd](https://github.com/obsidianmd), and let's be honest, _everything_.
+- 🌱 **Learning** - Modern Greek 🇬🇷, and Swift, which I use for CLIs that help with my support work.
+- 🎓 **Education** - I graduated with honors with a Bachelor's degree, and I worked full-time for most of it. I'll go on to more formal study someday, but I'm always learning.
+- 💻 **Career** - Customer Experience Specialist at [@Obsidianmd](https://github.com/obsidianmd) since 2023. I douse fires, I write documentation, and I'm the one who gets the customer admin work done.
+- 🫶 **Ongoing** - Leaning into more analog tasks, and stepping back from the screen when I can. I've been to Greece once, and I'm going back in November 2026 to study Modern Greek in person.
